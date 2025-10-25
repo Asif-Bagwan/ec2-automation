@@ -27,10 +27,6 @@ IAM user or Role with EC2 permissions
 
 Amazon Linux / Ubuntu environment
 
-Output:
-<img width="940" height="269" alt="image" src="https://github.com/user-attachments/assets/2de41f96-cc21-473d-8df6-8a690afabc02" />
-
-<img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/c81c53d6-d809-428a-aa4f-cfde1a545c66" />
 
 
 
